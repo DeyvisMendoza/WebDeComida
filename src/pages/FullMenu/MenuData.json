@@ -1,0 +1,159 @@
+{
+  "items": [
+    {
+      "title": "🍃 TOMATO CAPRESE",
+      "description": "Heirloom cherry tomatoes, high-quality extra-virgin olive oil",
+      "price": "$4.00"
+    },
+    {
+      "title": "SICILIAN BALLS",
+      "description": "Olive oil, onion, tomatoes juice, fresh basil, breadcrumbs",
+      "price": "$4.50"
+    },
+    {
+      "title": "🍃 HOT SOYA BURGERS",
+      "description": "Onion, good-quality organic soya, egg, chili, vegetable oil",
+      "price": "$3.50"
+    },
+    {
+      "title": "⭐ GRILLED CHEESE",
+      "description": "Greek cheese, lemon, pepper, garlic powder",
+      "price": "$2.50"
+    },
+    {
+      "title": "CUCUMBER SALAD",
+      "description": "Cucumbers, cider or white vinegar, water",
+      "price": "$2.50"
+    },
+    {
+      "title": "VEGAN POTATO",
+      "description": "Potatoes, vegetable oil, yellow onion, garlic",
+      "price": "$2.00"
+    },
+    {
+      "title": "🍲 MUSHROOM RISOTTO",
+      "description": "Arborio rice, fresh mushrooms, Parmesan, garlic, white wine",
+      "price": "$5.50"
+    },
+    {
+      "title": "🌿 FALAFEL PLATE",
+      "description": "Chickpeas, fresh parsley, garlic, tahini sauce, pita bread",
+      "price": "$4.00"
+    },
+    {
+      "title": "🍛 CHICKEN TIKKA MASALA",
+      "description": "Chicken breast, creamy tomato sauce, Indian spices",
+      "price": "$6.50"
+    },
+    {
+      "title": "🍤 GARLIC SHRIMP",
+      "description": "Shrimp, garlic, olive oil, chili flakes, lemon juice",
+      "price": "$7.00"
+    },
+    {
+      "title": "🥗 QUINOA SALAD",
+      "description": "Quinoa, avocado, cherry tomatoes, red onion, lemon dressing",
+      "price": "$4.50"
+    },
+    {
+      "title": "🌮 BEEF TACOS",
+      "description": "Ground beef, cilantro, onions, homemade salsa, corn tortillas",
+      "price": "$5.00"
+    },
+    {
+      "title": "🍝 SPAGHETTI CARBONARA",
+      "description": "Spaghetti, pancetta, Parmesan, eggs, black pepper",
+      "price": "$6.00"
+    },
+    {
+      "title": "🥩 GRILLED RIBEYE STEAK",
+      "description": "12 oz ribeye, rosemary, garlic butter",
+      "price": "$15.00"
+    },
+    {
+      "title": "🍕 MARGHERITA PIZZA",
+      "description": "Tomato sauce, fresh mozzarella, basil, olive oil",
+      "price": "$8.50"
+    },
+    {
+      "title": "🍰 CHEESECAKE",
+      "description": "Cream cheese, graham cracker crust, fresh strawberries",
+      "price": "$3.50"
+    },
+    {
+      "title": "🍦 VEGAN CHOCOLATE ICE CREAM",
+      "description": "Cocoa, coconut milk, agave syrup, almond flakes",
+      "price": "$4.00"
+    },
+    {
+      "title": "☕ ICED COFFEE",
+      "description": "Freshly brewed coffee, ice, almond milk, vanilla syrup",
+      "price": "$2.50"
+    },
+    {
+      "title": "🥤 FRESHLY SQUEEZED ORANGE JUICE",
+      "description": "100% natural orange juice, no sugar added",
+      "price": "$3.00"
+    },
+    {
+      "title": "🍷 RED WINE (GLASS)",
+      "description": "Full-bodied red wine, rich and aromatic",
+      "price": "$6.00"
+    },
+    {
+      "title": "🌯 CHICKEN SHAWARMA",
+      "description": "Marinated chicken, pita bread, garlic sauce, pickles, fries",
+      "price": "$6.50"
+    },
+    {
+      "title": "🥘 PAELLA",
+      "description": "Saffron rice, seafood mix, peas, bell pepper, white wine",
+      "price": "$9.00"
+    },
+    {
+      "title": "🍚 SUSHI PLATTER",
+      "description": "Assorted sushi rolls with soy sauce, wasabi, and ginger",
+      "price": "$12.00"
+    },
+    {
+      "title": "🍛 BEEF STROGANOFF",
+      "description": "Beef strips, creamy mushroom sauce, egg noodles",
+      "price": "$7.50"
+    },
+    {
+      "title": "🍳 AVOCADO TOAST",
+      "description": "Sourdough toast, mashed avocado, cherry tomatoes, poached egg",
+      "price": "$4.50"
+    },
+    {
+      "title": "🥣 FRENCH ONION SOUP",
+      "description": "Caramelized onions, beef broth, croutons, melted Gruyère",
+      "price": "$5.00"
+    },
+    {
+      "title": "🍠 SWEET POTATO FRIES",
+      "description": "Baked sweet potato fries, served with a spicy aioli dip",
+      "price": "$3.00"
+    },
+    {
+      "title": "🍹 PINA COLADA (VIRGIN)",
+      "description": "Pineapple juice, coconut milk, crushed ice",
+      "price": "$4.50"
+    },
+    {
+      "title": "🍗 BUFFALO WINGS",
+      "description": "Spicy buffalo sauce, celery, and blue cheese dip",
+      "price": "$6.00"
+    },
+    {
+      "title": "🍛 BEEF BURGER",
+      "description": "100% beef patty, lettuce, tomato, cheddar, pickles, fries",
+      "price": "$7.00"
+    },
+    {
+      "title": "🍵 GREEN SMOOTHIE",
+      "description": "Spinach, banana, avocado, coconut water, chia seeds",
+      "price": "$5.00"
+    }
+  ]
+}

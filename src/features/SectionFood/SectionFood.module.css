@@ -1,0 +1,44 @@
+.foodSection {
+    display: flex;
+    max-width: 1100px;
+    padding: 50px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin: 0 auto;
+}
+
+.foodImage {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.foodImage img {
+    width: 100%;
+    max-width: 620px;
+}
+
+.foodContent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.offerTitle {
+    font-size: 0.8rem;
+    color: #2cd035;
+}
+
+.deliveryTitle {
+    font-size: 3.5rem;
+}
+
+.deliveryTitle span {
+    color: #2cd035;
+}
+
+.description {
+    margin-top: 20px;
+}

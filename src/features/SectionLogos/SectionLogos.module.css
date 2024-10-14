@@ -1,0 +1,32 @@
+.sectionLogos {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    width: 100%; 
+    max-width: 1700px;
+    margin: 50px auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 70px;
+}
+
+.sectionLogos__header {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.sectionLogos__header h2 {
+    font-size: 3rem;
+}
+
+.sectionLogos__carouselContainer {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.sectionLogos__image {
+    width: 100%; 
+    max-width: 190px; 
+    opacity: 0.1;
+    filter: grayscale(100%);
+}

@@ -1,0 +1,84 @@
+.sectionMenu {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 50px 50px;
+}
+
+.sectionMenuContent {
+    max-width: 1400px;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.sectionMenuHeader {
+    text-align: center; /* Centrar el texto del encabezado */
+}
+
+.sectionMenuHeader h2 {
+    font-size: 3rem;
+}
+
+.sectionMenuItems {
+    padding-top: 50px;
+}
+
+.sectionMenuGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+    gap: 50px; /* Espaciado entre elementos */
+}
+
+.sectionMenuItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    gap: 40px;
+}
+
+.sectionMenuDetails {
+    display: flex;
+    flex-direction: column;
+}
+
+.sectionMenuItemTitle {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: black;
+}
+
+.sectionMenuItemPrice {
+    font-weight: bold;
+    color: #000000;
+    font-size: 1.2em;
+}
+
+.sectionMenuItem p {
+    margin: 5px 0 0;
+    color: #666;
+}
+
+.sectionMenuButtonContainer {
+    margin-top: 20px; /* Espaciado entre el menú y el botón */
+}
+
+.sectionMenuButton {
+    background-color: white;
+    color: #2cd035;
+    border: 2px solid #2cd035 !important;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer; 
+}
+
+.sectionMenuButton:hover {
+    background-color: #2cd035;
+    color: white;
+}

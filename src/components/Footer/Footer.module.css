@@ -1,0 +1,28 @@
+.footerContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-around;
+    width: 100%;
+    padding: 15px;
+}
+
+.footerText {
+    color: black;
+    font-size: 0.9rem;
+}
+
+.footerLinks {
+    ul {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        list-style-type: none;  /* Elimina los puntos de la lista */
+    }
+
+    a {
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        font-size: 0.8rem;
+    }
+}

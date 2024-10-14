@@ -1,0 +1,71 @@
+.sectionMenu {
+  padding: 40px;
+  text-align: center; /* Centra el texto en todo el contenedor */
+  background-color: #f8f8f8; /* Color de fondo suave */
+}
+
+.sectionMenuContent {
+  margin-bottom: 20px; /* Espacio entre el encabezado y los elementos del menú */
+}
+
+.sectionMenuTitle {
+  font-size: 2.5em; /* Aumenta el tamaño del título */
+  color: #2cd035; /* Color verde para el título */
+  margin: 10px 0; /* Espaciado adicional */
+}
+
+.sectionMenuDescription {
+  margin: 10px 0;
+  font-size: 1.1em; /* Tamaño de fuente ligeramente más grande */
+  color: #555; /* Color gris para una mejor legibilidad */
+}
+
+.sectionMenuItems {
+  display: flex;
+  flex-direction: column; /* Organiza los elementos del menú en columna */
+  align-items: center; /* Centra los elementos en el eje transversal */
+  gap: 20px; /* Espaciado entre los elementos del menú */
+  padding-top: 50px;
+}
+
+.sectionMenuGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Dos columnas responsivas */
+  gap: 30px; /* Espacio entre los elementos de la cuadrícula */
+  max-width: 1200px; /* Ancho máximo para una mejor presentación en pantallas grandes */
+  margin: 0 auto; /* Centra la cuadrícula en el contenedor */
+}
+
+.sectionMenuItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px; /* Reduce el padding para un mejor ajuste */
+  border: 1px solid #eee; /* Cambia a un borde sólido */
+  border-radius: 10px; /* Bordes redondeados */
+  background-color: #fff; /* Fondo blanco para el contenedor */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  transition: box-shadow 0.3s ease; /* Efecto de transición suave */
+}
+
+.sectionMenuItem:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada al pasar el ratón */
+}
+
+.sectionMenuItemTitle {
+  font-weight: bold;
+  font-size: 1.3em; /* Tamaño de fuente más grande para el título del menú */
+  color: #333; /* Color más oscuro para el título del menú */
+}
+
+.sectionMenuItemPrice {
+  font-weight: bold;
+  color: #2cd035; /* Color verde para el precio */
+  font-size: 1.2em;
+}
+
+.sectionMenuItemDescription {
+  margin: 5px 0 0;
+  color: #666; /* Color gris para la descripción */
+  font-size: 0.9em; /* Tamaño de fuente más pequeño para la descripción */
+}

@@ -1,0 +1,29 @@
+.sectionTitleContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1200px;
+    height: 80%;
+    margin: 0 auto;
+    gap: 70px;
+}
+
+.restaurantName {
+    color: #2cd035;
+}
+
+.titleContent h2 {
+    font-size: 4.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.highlightText {
+    color: #2cd035;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}

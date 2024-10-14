@@ -1,0 +1,59 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #2cd035;
+    border-radius: 0 0 10px 10px;
+}
+
+.top-nav {
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 0 10px;
+}
+
+.contact-info {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.contact-info p {
+    color: white;
+}
+
+.top-nav-container {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    align-items: center;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #1f2220;
+}

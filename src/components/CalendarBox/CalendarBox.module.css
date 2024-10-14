@@ -1,0 +1,46 @@
+.tableBook {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.5); /* Blanco con 50% de transparencia */
+    padding: 15px 40px;
+    flex-direction: column;
+    border-radius: 15px;
+    opacity: 95%;
+    min-width: 350px;
+    max-width: 400px;
+}
+
+.bookDetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px; 
+}
+
+.iconContainer {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.pes {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p {
+    font-size: 1.7rem;
+}
+
+.dateDetails {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-content: center;
+}
+
+.botoncito {
+    display: flex;
+    justify-content: center;
+}
+    
